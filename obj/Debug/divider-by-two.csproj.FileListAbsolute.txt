@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\divider-by-two-console-app\divider-by-two\divider-by-two\bin\Debug\divider-by-two.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\divider-by-two-console-app\divider-by-two\divider-by-two\bin\Debug\divider-by-two.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\divider-by-two-console-app\divider-by-two\divider-by-two\bin\Debug\divider-by-two.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\divider-by-two-console-app\divider-by-two\divider-by-two\obj\Debug\divider-by-two.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\divider-by-two-console-app\divider-by-two\divider-by-two\obj\Debug\divider-by-two.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\divider-by-two-console-app\divider-by-two\divider-by-two\obj\Debug\divider-by-two.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\divider-by-two-console-app\divider-by-two\divider-by-two\obj\Debug\divider-by-two.pdb
